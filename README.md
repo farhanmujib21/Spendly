@@ -1,15 +1,15 @@
-# Spendly 💸
+# Spendly 
 
-## 📱 Deskripsi Singkat Aplikasi
+##  Deskripsi Singkat Aplikasi
 **Spendly** adalah aplikasi mobile pintar untuk manajemen keuangan pribadi yang dibangun menggunakan framework Flutter. Aplikasi ini dirancang untuk membantu pengguna melacak setiap pemasukan dan pengeluaran, memvisualisasikan kebiasaan finansial mereka melalui grafik analitik, serta membantu pengguna merencanakan anggaran bulanan dan target tabungan masa depan.
 
-## 🎯 Tujuan Pengembangan Aplikasi
+##  Tujuan Pengembangan Aplikasi
 * Memberikan kemudahan bagi pengguna dalam mencatat transaksi harian (pengeluaran dan pemasukan).
 * Membantu pengguna memonitor kondisi keuangan mereka melalui ringkasan dan statistik yang mudah dipahami.
 * Mendorong kebiasaan menabung dan mengontrol pengeluaran dengan fitur Budgeting dan Savings Goal.
 * Menyediakan pengalaman pengguna yang mulus (smooth) dan modern dalam aplikasi pencatatan keuangan.
 
-## ✨ Daftar Fitur yang Tersedia
+##  Daftar Fitur yang Tersedia
 * **Dashboard Utama:** Ringkasan saldo, pengeluaran/pemasukan terkini, serta akses cepat ke berbagai menu.
 * **Pencatatan Transaksi:** Tambah transaksi pengeluaran atau pemasukan lengkap dengan kategori, tanggal, catatan, *mood*, hingga **foto struk** (menggunakan kamera/galeri).
 * **Analitik & Laporan:** Visualisasi pengeluaran dalam bentuk grafik (Pie Chart/Bar Chart) untuk analisis pengeluaran berdasarkan kategori.
@@ -19,7 +19,7 @@
 * **Pengaturan & Notifikasi:** Pengaturan profil pengguna dan pengingat harian (local notification).
 * **Onboarding & Splash Screen:** Tampilan perkenalan awal untuk pengguna baru.
 
-## 🛠️ Teknologi, Framework, Library, dan Komponen
+##  Teknologi, Framework, Library, dan Komponen
 Aplikasi ini dikembangkan dengan teknologi berikut:
 * **Framework Utama:** Flutter (Dart)
 * **State Management:** Provider (`provider: ^6.1.1`)
@@ -31,7 +31,7 @@ Aplikasi ini dikembangkan dengan teknologi berikut:
 * **Notifikasi:** Flutter Local Notifications (`flutter_local_notifications: ^17.2.3`)
 * **Font & Format:** Google Fonts (`google_fonts`), Intl (`intl`)
 
-## 🗄️ Struktur Database (SQLite)
+##  Struktur Database (SQLite)
 Aplikasi ini menggunakan 3 tabel utama di dalam database `spendly.db`:
 
 ### 1. Tabel `transactions`
@@ -64,7 +64,7 @@ Menyimpan target tabungan pengguna.
 * `deadline` (INTEGER) - Tenggat waktu tabungan
 * `isCompleted` (INTEGER, DEFAULT 0) - Status (0: Belum, 1: Selesai)
 
-## 🚀 Panduan Instalasi dan Menjalankan Aplikasi
+##  Panduan Instalasi dan Menjalankan Aplikasi
 
 1. **Prasyarat:** Pastikan Anda telah menginstal [Flutter SDK](https://flutter.dev/docs/get-started/install) (versi 3.12.2 atau terbaru) dan Dart.
 2. **Clone Repositori:**
@@ -81,7 +81,7 @@ Menyimpan target tabungan pengguna.
    flutter run
    ```
 
-## 📸 Screenshot Tampilan Aplikasi
+##  Screenshot Tampilan Aplikasi
 *(Silakan ganti URL gambar di bawah ini dengan screenshot aplikasi Anda)*
 
 <p align="center">
