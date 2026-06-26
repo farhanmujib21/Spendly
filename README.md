@@ -82,14 +82,19 @@ Menyimpan target tabungan pengguna.
    ```
 
 ##  Screenshot Tampilan Aplikasi
-*(Silakan ganti URL gambar di bawah ini dengan screenshot aplikasi Anda)*
 
 <p align="center">
-  <img src="https://via.placeholder.com/250x500.png?text=Splash+Screen" width="200" alt="Splash Screen"/>
-  <img src="https://via.placeholder.com/250x500.png?text=Dashboard" width="200" alt="Dashboard"/>
-  <img src="https://via.placeholder.com/250x500.png?text=Add+Transaction" width="200" alt="Add Transaction"/>
+  <img src="assets/onboarding.png" width="200" alt="Splash Screen"/>
+  <img src="assets/setup profile.png" width="200" alt="setup profile"/>
+  <img src="assets/dashboard.png" width="200" alt="dashboard"/>
 </p>
 <p align="center">
-  <img src="https://via.placeholder.com/250x500.png?text=Analytics" width="200" alt="Analytics"/>
-  <img src="https://via.placeholder.com/250x500.png?text=Savings+Goal" width="200" alt="Savings Goal"/>
+  <img src="assets/histori.png" alt="histori"/>
+  <img src="assets/tambah transaksi.png" alt="tambah transaksi"/>
 </p>
+<p align="center">
+  <img src="assets/analisis.png" alt="analisis"/>
+  <img src="assets/goal.png" alt="goal"/>
+  <img src="assets/profil.png" alt="profil"/>
+<p>
+
